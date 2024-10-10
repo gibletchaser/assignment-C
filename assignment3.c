@@ -20,6 +20,7 @@ double cashTendered;
 double notEnough;
 double NewcashTendered;
 
+//this is the main menu bro
 void MainMenu(){
     printf("Welcome to the Mini Shop System \n");
     printf("1. Smartphone\n");
